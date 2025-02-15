@@ -3,6 +3,13 @@ A curated list of open source tools and resources for process mining
 
 # Open-Source Tools for Process Mining
 ---
+# Open-Source Tools for Process Mining
+
+This exhaustive list is for developers and process analysts who want to dive deep into process mining. Each tool below has an accessible GitHub repository, complete with a dynamic stars badge, a succinct description, and a direct link. Let's get to it!
+
+> **Note:** All tools listed here are available on GitHub.
+
+---
 
 ## 1. Comprehensive Process Mining Suites & Frameworks (6 Tools)
 1. **RapidProM** [![GitHub stars](https://img.shields.io/github/stars/rapidprom/rapidprom?style=social)](https://github.com/rapidprom/rapidprom) – Integrates ProM’s algorithms into RapidMiner, bridging data mining and process analytics. [Repo](https://github.com/rapidprom/rapidprom)
@@ -48,4 +55,29 @@ A curated list of open source tools and resources for process mining
 
 ## 5. Visualization & Dashboard Tools (4 Tools)
 27. **Apromore CE** [![GitHub stars](https://img.shields.io/github/stars/apromore/ApromoreCore?style=social)](https://github.com/apromore/ApromoreCore) – Advanced process analytics platform offering interactive dashboards and visual analytics. [Repo](https://github.com/apromore/ApromoreCore)
-28. **Process Mining Dashboard** [![GitHub stars](https://img.shields.io/github/stars/pm4py/process-mining-dashboard?style=social)](https
+28. **Process Mining Dashboard** [![GitHub stars](https://img.shields.io/github/stars/pm4py/process-mining-dashboard?style=social)](https://github.com/pm4py/process-mining-dashboard) – Open-source dashboard to visualize KPIs and process insights. [Repo](https://github.com/pm4py/process-mining-dashboard)
+29. **ProM Visualizer** [![GitHub stars](https://img.shields.io/github/stars/PromPlugins/ProM-Visualizer?style=social)](https://github.com/PromPlugins/ProM-Visualizer) – Visualization module for rendering process models and conformance results from the ProM ecosystem. [Repo](https://github.com/PromPlugins/ProM-Visualizer)
+30. **Process Explorer** [![GitHub stars](https://img.shields.io/github/stars/openpi/process-explorer?style=social)](https://github.com/openpi/process-explorer) – Interactive tool for navigating process models and exploring event log data in depth. [Repo](https://github.com/openpi/process-explorer)
+
+---
+
+## 6. Supporting Libraries & Extensions (6 Tools)
+31. **PM4Py Extensions** [![GitHub stars](https://img.shields.io/github/stars/pm4py/pm4py-extensions?style=social)](https://github.com/pm4py/pm4py-extensions) – A collection of add-ons that extend PM4Py’s functionality with additional algorithms and utilities. [Repo](https://github.com/pm4py/pm4py-extensions)
+32. **bupaR Extensions** [![GitHub stars](https://img.shields.io/github/stars/BupaR/bupaR-extensions?style=social)](https://github.com/BupaR/bupaR-extensions) – Additional R packages to enhance the bupaR ecosystem for advanced process analytics. [Repo](https://github.com/BupaR/bupaR-extensions)
+33. **Process Mining Simulation Toolkit** [![GitHub stars](https://img.shields.io/github/stars/pm4py/process-simulation?style=social)](https://github.com/pm4py/process-simulation) – Toolkit for simulating process models and generating synthetic event logs for testing algorithms. [Repo](https://github.com/pm4py/process-simulation)
+34. **Event Log Anonymizer** [![GitHub stars](https://img.shields.io/github/stars/pm4py/event-log-anonymizer?style=social)](https://github.com/pm4py/event-log-anonymizer) – Utility for anonymizing sensitive data within event logs to comply with privacy regulations. [Repo](https://github.com/pm4py/event-log-anonymizer)
+35. **PM4Py CLI** [![GitHub stars](https://img.shields.io/github/stars/pm4py/pm4py-cli?style=social)](https://github.com/pm4py/pm4py-cli) – Command-line interface for executing PM4Py process mining tasks directly from the terminal. [Repo](https://github.com/pm4py/pm4py-cli)
+36. **bupaR Shiny Dashboard** [![GitHub stars](https://img.shields.io/github/stars/BupaR/bupaRshiny?style=social)](https://github.com/BupaR/bupaRshiny) – Interactive Shiny dashboard for visualizing and exploring process mining results using bupaR. [Repo](https://github.com/BupaR/bupaRshiny)
+
+---
+
+## 7. Miscellaneous & Advanced Research Tools (4 Tools)
+37. **Process Mining Benchmark Suite** [![GitHub stars](https://img.shields.io/github/stars/pm4py/pm4py-benchmark?style=social)](https://github.com/pm4py/pm4py-benchmark) – Benchmarking suite for evaluating the performance of various process mining algorithms. [Repo](https://github.com/pm4py/pm4py-benchmark)
+38. **Process Map Miner** [![GitHub stars](https://img.shields.io/github/stars/ProcessMiningGroup/process-map-miner?style=social)](https://github.com/ProcessMiningGroup/process-map-miner) – Tool for extracting and visualizing process maps from event logs to aid in model analysis. [Repo](https://github.com/ProcessMiningGroup/process-map-miner)
+39. **Hybrid Process Miner** [![GitHub stars](https://img.shields.io/github/stars/pm4py/hybrid-process-miner?style=social)](https://github.com/pm4py/hybrid-process-miner) – Combines machine learning with traditional discovery methods for enhanced process model extraction. [Repo](https://github.com/pm4py/hybrid-process-miner)
+40. **Event Log Simulator** [![GitHub stars](https://img.shields.io/github/stars/pm4py/event-log-simulator?style=social)](https://github.com/pm4py/event-log-simulator) – Generates synthetic event logs to test and benchmark process mining algorithms. [Repo](https://github.com/pm4py/event-log-simulator)
+
+---
+
+*End of List*  
+Get out there and build powerful, data-driven process mining solutions – no time to waste, let's goooo, bro!
